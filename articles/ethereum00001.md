@@ -1,6 +1,6 @@
 ---
 title: "イーサリアム技術解説  イーサリアムとは?"
-emoji: "⛳"
+emoji: "👀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Solidity, TypeScript, Next.js]
 published: true
