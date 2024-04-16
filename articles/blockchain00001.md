@@ -3,7 +3,7 @@ title: "インターナルトランザクションとは?"
 emoji: "👀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Solidity, Blockchain, Web3]
-published: false
+published: true
 ---
 
 ### インターナルトランザクションとは？
